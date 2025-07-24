@@ -77,7 +77,7 @@
     <!-- Smartsupp Live Chat script -->
     <script type="text/javascript">
         var _smartsupp = _smartsupp || {};
-_smartsupp.key = 'a32031170cef4293e7bdf2197c91cbf908e92bdd';
+_smartsupp.key = 'f2127c4af756c8dc66e93297a2e1a92b6b953053';
 window.smartsupp||(function(d) {
   var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
   s=d.getElementsByTagName('script')[0];c=d.createElement('script');
